@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: ref.bib
+Warning--to sort, need author or key in govcn20221011
+Warning--empty year in hzau2021
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            512 strings with 4397 characters,
+and the built_in function-call counts, 609 in all, are:
+= -- 58
+> -- 15
+< -- 0
++ -- 7
+- -- 4
+* -- 31
+:= -- 107
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 27
+empty$ -- 58
+format.name$ -- 4
+if$ -- 126
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 2
+newline$ -- 18
+num.names$ -- 4
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 15
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 2
+while$ -- 4
+width$ -- 4
+write$ -- 32
+(There were 2 warnings)
